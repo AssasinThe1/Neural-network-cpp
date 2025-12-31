@@ -262,18 +262,3 @@ If you're learning from this project, here are key concepts to study:
 3. **Optimization**: How Adam improves on basic SGD
 4. **Regularization**: Preventing overfitting with dropout
 5. **Numerical Stability**: Softmax stability, gradient clipping
-
-## License
-
-MIT License - feel free to use this code for learning or as a starting point for your own projects.
-
-## Author
-
-[Your Name]
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
-- Email: your.email@example.com
-
----
-
-*This project was created as a portfolio piece to demonstrate C++ proficiency and understanding of neural network fundamentals.*
